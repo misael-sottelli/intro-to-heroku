@@ -4,7 +4,7 @@
   "keywords": [
     "app-cloud"
   ],
-  "repository": "https://github.com/YOUR_USERNAME/intro-to-heroku",
+  "repository": "https://github.com/misael.jesus@curious-badger-6c5nmz.com/intro-to-heroku",
   "addons": [
     "heroku-postgresql"
   ]
